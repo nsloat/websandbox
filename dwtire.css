@@ -1,0 +1,38 @@
+nav, .nav-wrapper, .page-footer {
+    background: #005ca7;
+}
+
+main, body {
+    background: #e6e5e5;
+}
+
+nav .brand-logo {
+    height: 100%;
+    width: 200px;
+    padding-left: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underligned {
+    text-decoration: underline;
+}
+
+.red-text, .alternate-color span:nth-child(odd) {
+    color:#FF0000;
+}
+
+div.col iframe {
+    width: 100%;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
